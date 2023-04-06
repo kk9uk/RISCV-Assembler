@@ -1,15 +1,5 @@
 #!/bin/bash
 
-# /***************************************************************/
-# /*                                                             */
-# /*                  RISCV-LC Assembler                         */
-# /*                                                             */
-# /*                     CEG3420 Lab2                            */
-# /*                 cbai@cse.cuhk.edu.hk                        */
-# /*           The Chinese University of Hong Kong               */
-# /*                                                             */
-# /***************************************************************/
-
 # set -e
 
 root=`dirname ${BASH_SOURCE[0]}`

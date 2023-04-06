@@ -1,14 +1,3 @@
-/***************************************************************/
-/*                                                             */
-/*                  RISCV-LC Assembler                         */
-/*                                                             */
-/*                     CEG3420 Lab2                            */
-/*                 cbai@cse.cuhk.edu.hk                        */
-/*           The Chinese University of Hong Kong               */
-/*                                                             */
-/***************************************************************/
- 
-
 #ifndef __UTIL_H__
 #define __UTIL_H__
 

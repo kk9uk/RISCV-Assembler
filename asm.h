@@ -1,14 +1,3 @@
-/***************************************************************/
-/*                                                             */
-/*                  RISCV-LC Assembler                         */
-/*                                                             */
-/*                     CEG3420 Lab2                            */
-/*                 cbai@cse.cuhk.edu.hk                        */
-/*           The Chinese University of Hong Kong               */
-/*                                                             */
-/***************************************************************/
-
-
 #ifndef __LC_ASM_H__
 #define __LC_ASM_H__
 
@@ -34,7 +23,6 @@
 
 /*
  * RV32I instruction identifiers
- * you can check it in the function `is_opcode`
  */
 enum {
     ADDI, SLLI, XORI, SRLI, SRAI, /* 4 */
