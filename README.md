@@ -10,3 +10,6 @@
            bne, blt, bge
 * Load and Store Instructions:
             lb, lh, lw, sb, sh, sw
+
+## Usage
+`./asm path/to/source.asm path/to/output.bin`
